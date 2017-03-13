@@ -19,7 +19,7 @@ namespace fifteens
                 Console.Clear();
                 menu.StartTheGame();
             }
-            Console.WriteLine("Спасибо за игру!");
+            Console.WriteLine();
             Console.ReadLine();
         }
     }
